@@ -1,0 +1,22 @@
+{
+  "name": "react-testing-rs",
+  "version": "1.0.0",
+  "description": "React-Testing-RS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/start20201202/React-Testing-RS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/start20201202/React-Testing-RS/issues"
+  },
+  "homepage": "https://github.com/start20201202/React-Testing-RS#readme",
+  "dependencies": {
+    "jest": "^27.1.1"
+  }
+}
